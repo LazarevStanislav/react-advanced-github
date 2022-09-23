@@ -9,4 +9,4 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 npm install @reduxjs/toolkit react-redux
 npm i react-router-dom
-6.17
+46.20
